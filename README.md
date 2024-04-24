@@ -1,6 +1,6 @@
 # Star Light Laser
 
-![Star Light Laser](https://github.com/Driftrotor/Star_Light_Laser/assets/94327757/010b1191-981c-4294-92ba-dc126c09d05b)
+![Front ISO](https://github.com/Driftrotor/Star-Light-Laser/assets/94327757/93962b32-94fa-4e0a-88c6-4b38c4940bb9)
 
 This Project was born out of being given a small 5W laser (Creality Falcon) to use on my Ender 3 Pro.
 But my eldest son is creative with cardboard so i wanted to expand the working area to help him push his skills forward while making it easier to create bigger and better things.
